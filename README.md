@@ -7,6 +7,9 @@ This project is an **end-to-end data analytics dashboard** built using **Power B
 
 This project demonstrates strong skills in **data cleaning, data modeling, DAX, and business storytelling**, making it suitable for showcasing in **GitHub, LinkedIn, and resumes**.
 
+## Dashboard Demo:- 
+https://app.powerbi.com/view?r=eyJrIjoiY2RjMDEwN2QtYWY1ZS00MzExLWI3ZWYtZDdjZTllMmRiZThlIiwidCI6IjEyYzk2ZjBkLTQzZmUtNDM0Mi1iZGIxLTk3M2QyZTRjOWI0YiJ9
+
 ---
 
 ## 🎯 Objectives
